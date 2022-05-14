@@ -1,0 +1,26 @@
+{
+  "name": "gov-highschool",
+  "version": "1.0.0",
+  "description": "govt. high school website",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gov-highschool/gov-highschool.git"
+  },
+  "keywords": [
+    "govt."
+  ],
+  "author": "Vivek Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gov-highschool/gov-highschool/issues"
+  },
+  "homepage": "https://github.com/gov-highschool/gov-highschool#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
